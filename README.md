@@ -1,6 +1,6 @@
 # World Wise App
 
-Worldwise is a web application made for travelers to capture the moments and taking notes about their journey in different countries, by selecting the countries you visited and write what you thought and felt about your trip in each country.
+Worldwise is a web application designed for travelers to capture moments and take notes about their journeys in different countries. By selecting the countries they have visited, users can write about their thoughts and feelings regarding each destination.
 
 Technologies/Tools used within this project:
 
