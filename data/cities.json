@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Montalegre",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-28T15:10:50.956Z",
+      "notes": "asdasdasdasd",
+      "position": {
+        "lat": "41.64060296920063",
+        "lng": "-7.946430444717408"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-28T15:14:08.361Z",
+      "notes": "afasdsa",
+      "position": {
+        "lat": "41.60838674715816",
+        "lng": "-0.8789062500000001"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "San Roman de Cameros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-28T15:34:41.802Z",
+      "notes": "",
+      "position": {
+        "lat": "42.18066242579647",
+        "lng": "-2.4389648437500004"
+      },
+      "id": 3
+    }
+  ]
+}
