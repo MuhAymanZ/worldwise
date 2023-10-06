@@ -6,7 +6,7 @@ import { createContext, useEffect } from "react";
 
 const CitiesContext = createContext();
 
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://world-wise-db.vercel.app";
 
 const initialState = {
 	cities: [],
