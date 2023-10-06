@@ -11,4 +11,4 @@ Technologies/Tools used within this project:
 - Css Modules
 - Leaflet Api (for the map)
 - Fake User Authintication
-- POST / GET / DELETE from a fake api
+- POST / GET / DELETE from a fake api (json-server)
